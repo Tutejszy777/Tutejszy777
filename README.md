@@ -18,5 +18,5 @@
 
 <h3 align="left">API's:</h3>
 <p align="left">
-    Papercut SMTP v7
+    - Papercut SMTP v7
 </p>
