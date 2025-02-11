@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
-<h3 align="center">My hobby is programming.</h3>
+<h3 align="center">My passion is programming.</h3>
 
 - 🔭 I’m currently working on **.NET app**
 
