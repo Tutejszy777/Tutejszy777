@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **HAVE ENOUGH (not looking rn)**
 
-- 📫 How to reach me **muravski.patrik@gmail.com**
+- 📫 How to reach me **muravski.patrik@gmail.com**     **ENG/LT/PL/RU**
 
 <hr/>
 
