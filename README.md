@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
 <h3 align="center">My passion is programming.</h3>
 
-- 🔭 I’m currently working on **.NET web app, dekstop application of file transfer(GUI with electron + react) + refactoring**
+- 🔭 I’m currently working on **Many hobby projects: .NET web app, dekstop application of file transfer, GoAPI, Game on UE5**
 
-- 🌱 I’m currently learning **Unrealengine5, React**
+- 🌱 I’m currently learning **Unrealengine5, React + Electron, Creation of microservices, clusters**
 
-- 👯 I’m looking to collaborate on **Unrealengine5 game project**
+- 👯 I’m looking to collaborate on **HAVE ENOUGH (not looking rn)**
 
 - 📫 How to reach me **muravski.patrik@gmail.com**
 
