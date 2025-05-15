@@ -22,7 +22,7 @@ I am very disciplined, I spend a lot of time every day practicing my developer s
 <p> C/C++ projects – Embedded projects on the raspberry pico w board / UE5 game / Calculator. </p>
 <p> C# games in Unity</p>
 <p> Have written an API in Golang</p>
-<p> My projects do have xUnit/Google test's. I am actively using Docker containers almost everywhere. </p>
+<p> My projects do have xUnit/Google test's. I am actively using Docker containers & Powershell almost everywhere. </p>
 
 <hr/>
 
