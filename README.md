@@ -9,6 +9,24 @@
 
 <hr/>
 
+<h3>About me: </h3>
+
+<p>Hi,
+I am very disciplined, I spend a lot of time every day practicing my developer skills.
+</p>
+
+<h3>My Projects:</h3>
+
+<p> .NET CORE projects (MVC, Razor pages, API, Console apps) – one of them with integrated embedded system. </p>
+<p> Python projects – one of them to transfer HUGE files over local network devices. </p>
+<p> C/C++ projects – Embedded projects on the raspberry pico w board / UE5 game / Calculator. </p>
+<p> C# games in Unity</p>
+<p> Have written an API in Golang</p>
+<p> My projects do have xUnit/Google test's. I am actively using Docker containers almost everywhere. </p>
+
+<hr/>
+
+
 <h3>Connect with me:</h3>
 
 <p align="center">
