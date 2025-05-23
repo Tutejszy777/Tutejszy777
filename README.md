@@ -21,7 +21,7 @@ I am very disciplined, I spend a lot of time every day practicing my developer s
 <p> Python projects – one of them to transfer HUGE files over local network devices. </p>
 <p> C/C++ projects – Embedded projects on the raspberry pico w board / UE5 game / Calculator. </p>
 <p> C# games in Unity</p>
-<p> Have written an API in Golang</p>
+<p> Golang practiced cryptography and have written an API</p>
 <p> My projects do have xUnit/Google test's. I am actively using Docker containers & Powershell almost everywhere. </p>
 
 <hr/>
