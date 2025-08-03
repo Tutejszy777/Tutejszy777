@@ -17,11 +17,11 @@ I am very disciplined, I spend a lot of time every day practicing my developer s
 
 <h3>My Projects:</h3>
 
-<p> .NET CORE projects (MVC, Razor pages, API, Console apps) – one of them with integrated embedded system. </p>
-<p> Python projects – one of them to transfer HUGE files over local network devices. </p>
+<p> C# .NET (Core, Framework) Web API, MVC, Windows services & games in Unity, </p>
+<p> Python projects – Networking projects </p>
 <p> C/C++ projects – Embedded projects on the raspberry pico w board / UE5 game / Calculator. </p>
-<p> C# games in Unity</p>
-<p> Golang practiced cryptography and have written an API</p>
+<p> Golang - Cryptography, API</p>
+<p> Javascript - used JQuery for some web applications. </p>
 <p> My projects do have xUnit/Google test's. I am actively using Docker containers & Powershell almost everywhere. </p>
 
 <hr/>
