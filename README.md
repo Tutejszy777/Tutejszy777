@@ -17,11 +17,11 @@ I am very disciplined, I spend a lot of time every day practicing my developer s
 
 <h3>My Projects:</h3>
 
-<p> C# .NET (Core, Framework) Web API, MVC, Windows services & games in Unity, </p>
+<p> C# .NET (Core, Framework) API, MVC, MAUI, Reports, Windows services & Games in Unity, </p>
 <p> Python projects – Networking projects </p>
 <p> C/C++ projects – Embedded projects on the raspberry pico w board / UE5 game / Calculator. </p>
 <p> Golang - Cryptography, API</p>
-<p> Javascript - used JQuery for some web applications. </p>
+<p> Javascript - React apps. </p>
 <p> My projects do have xUnit/Google test's. I am actively using Docker containers & Powershell almost everywhere. </p>
 
 <hr/>
