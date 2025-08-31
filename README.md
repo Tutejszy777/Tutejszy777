@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
 <h3 align="center">My passion is programming.</h3>
 
-- 🔭 I’m currently working on **.NET online shop for dropshipping**
+- 🔭 I’m currently working as **Software engineer at UVS group**
 
-- 🌱 I’m currently learning **Microservices in .NET, clusters**
+- 🌱 My currentt side-hustle project **React + .NET API online shops for resale.**
 
 - 📫 How to reach me **muravski.patrik@gmail.com**     **ENG/LT/PL/RU**
 
