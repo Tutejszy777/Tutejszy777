@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software engineer at UVS group**
 
-- 🌱 My side-hustle **Next.js + .NET API online shop**
+- 🌱 My side-hustle **Next.js + .NET API web app**
 
 - 📫 How to reach me      **ENG/LT/PL/RU**
 
@@ -15,8 +15,8 @@
 <h3>Language skills and experience</h3>
 
 <p> Main focus - C# .NET environment & Games in Unity </p>
-<p> Secondary focus - JS/TS - React/Next.js apps </p>
-<p> Python scripting for routines.</p>
+<p> Secondary focus - TS - React/Next.js apps </p>
+<p> Python scrips / API's</p>
 
 <h4> Additional experience: </h4>
 <p> C/C++ – Embedded on Raspberry Pico W Board</p>
