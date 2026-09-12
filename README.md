@@ -5,15 +5,6 @@
 - **muravski.patrik@gmail.com**
 - **https://www.linkedin.com/in/patrik-muravski-6714502a4/**
 
-<hr/>
-
-<h3>Language skills and experience</h3>
-
-<p> C# </p>
-<p> Typescript </p>
-<p> Python </p>
-
-
 
 
 
