@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
-<h3 align="center">My passion is programming.</h3>
 
 - 📫 How to reach me      **ENG/LT/PL/RU**
 
